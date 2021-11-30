@@ -1,1 +1,1 @@
-# qhyccd + python
+#  python code for qhyccd
