@@ -1,0 +1,12 @@
+1)install libusb-1
+2)install libssl-dev then install CMake >= 2.4.7
+3)sdk
+*https://www.qhyccd.com/index.php?m=content&c=index&a=show&catid=141&id=112
+**readme
+**sudo ./linux_install_dragon.sh
+
+*qhyccd-lzr//QHYCCD_Linux_New/qhyccdsdk-v2.0.10-Linux-Debian-Ubuntu-x86_64.release.tar.gz
+**readme
+**mkdir build
+**edit testapp/SingleFrameMode/CMakeLists.txt libusb-1 to libusb
+**add libusb.h in /usr/local/include/

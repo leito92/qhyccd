@@ -1,0 +1,7 @@
+SDK
+---
+*https://www.qhyccd.com/download/
+
+DLL
+---
+*https://www.qhyccd.com/html/prepub/log_en.html#!log_en.md
