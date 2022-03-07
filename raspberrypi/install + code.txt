@@ -4,7 +4,7 @@
 *https://www.qhyccd.com/index.php?m=content&c=index&a=show&catid=141&id=112
 **readme
 **sudo ./linux_install_dragon.sh
-//KStars with INDI driver instead of the java code
+//it is better use KStars with INDI driver instead of the java code.
 
 *qhyccd-lzr//QHYCCD_Linux_New/qhyccdsdk-v2.0.10-Linux-Debian-Ubuntu-x86_64.release.tar.gz
 **readme
